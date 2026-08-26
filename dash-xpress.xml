@@ -3,10 +3,10 @@
     <channel>
         <title>Dash Xpress - Appcast</title>
         <item>
-            <title>Version 1.2.10</title>
-            <description>Improves Cashbook balance accuracy for newly saved, edited, and deleted entries, keeps transaction running balances current before sync, and adds mobile-network logos to airtime transaction history.</description>
-            <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.voostech.xpress" sparkle:version="1.2.10" sparkle:os="android" />
+            <title>Version 1.2.11</title>
+            <description>Adds mobile contact editing and deletion, improves Cashbook navigation and summary presentation, corrects complete book totals with offline aggregate support, and displays the business logo in Business Pulse.</description>
+            <pubDate>Wed, 26 Aug 2026 14:17:08 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.voostech.xpress" sparkle:version="1.2.11" sparkle:os="android" />
         </item>
     </channel>
 </rss>
